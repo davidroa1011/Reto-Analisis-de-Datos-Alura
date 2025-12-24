@@ -28,5 +28,41 @@
       Electronicos 451 UN
     Podemos ver que la tendencia esta en la compra de muebles y electronicos en todas las tiendas, ademas,
     observamos que la tienda 3 es la que mas vende en estas dos categorias, seguida de la tienda 4.
+    
+### Valoración media por tienda
+    Tienda 1: 3.97 promedio de clasificación
+    Tienda 2: 4.03 promedio de clasificación
+    Tienda 3: 4.04 promedio de clasificación
+    Tienda 4: 3.99 promedio de clasificación
 
-
+### Productos mas y menos vendidos
+    Tienda 1: 
+        Mas vendidos 
+            Armario 60
+            TV Led 60
+        Menos vendidos 
+            Celular 33
+            Auriculares 33
+        Tienda 2: 
+        Mas vendidos 
+            Iniciando en programación 60
+            Microondas 60
+        Menos vendidos 
+            Mesa de comedor 34
+            Juego de mesa 32
+        Tienda 3: 
+        Mas vendidos 
+            Kit de bancas 57
+            Mesa de comedor 56
+        Menos vendidos 
+            Set de vasos 36
+            Bloque de construcción 35
+        Tienda 4: 
+        Mas vendidos 
+            Armario 60
+            TV Led 60
+        Menos vendidos 
+            Celular 33 
+            Auriculares 33
+        
+                       
