@@ -64,5 +64,14 @@
         Menos vendidos 
             Celular 33 
             Auriculares 33
+            
+### Envio promedio por tienda
+    Debemos resaltar que este envio lo paga el cliente
+    Tienda 1: 26.018 COP
+    Tienda 2: 25.216 COP
+    Tienda 3: 24.805 COP
+    Tienda 4: 23.459 COP
+
+
         
                        
