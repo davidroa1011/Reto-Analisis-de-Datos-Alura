@@ -1,5 +1,8 @@
 # Asesoria ventas tiendas
 
+## Objetivo
+Conocer cual es la tinda con el peor rendimiento para definir su venta
+
 ## Inicio
 
 ### Conociendo los daros
@@ -76,15 +79,24 @@
 
 #### Ventas por tienda 
 Este grafico muestra la totalidad de ventas por tienda 
-![Grafico ventas por tienda](direccion)
+![Grafico ventas por tienda](Ventas_por_tienda.png)
+Mayores Ventas en tienda 1 y tienda 2
 
 #### Cantidad de ventas por categoria 
 Este grafico muestra la cantidad de ventas por categoria 
-![Cantidad de ventas por categoria](direccion)
+![Cantidad de ventas por categoria](Cantidad_de_ventas_por_categoria_por_tienda1.png)
+Mayor cantidad de ventas en muebles juguetes y electronicos en Tienda 4 y tienda 1 y 3
 
 #### Calificacion promedio por tienda 
 Este grafico muestra la calificacion promedio por tienda 
-![Calificacion promedio por tienda](direccion)
+![Calificacion promedio por tienda](Calificación_promedio_por_tienda.png)
+Mayor calificacion promedio en Tienda 3 y tienda 2
+
+### Conclusión 
+La tienda que se propone vender es la tienda 4 debido a dos razones principales 
+1. Peores ingresos totales en el año
+2. Segunda peor calificacion en el año
+Esto se traduce en que los clientes no estan satisfechos con la atencion y los productos vendidos en esta tienda lo que hace que se tengan las peores ventas anuales y una mala calificación promedio
 
 
 
