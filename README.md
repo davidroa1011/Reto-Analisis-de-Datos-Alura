@@ -72,6 +72,21 @@
     Tienda 3: 24.805 COP
     Tienda 4: 23.459 COP
 
+### Analisis grafico de datos 
+
+#### Ventas por tienda 
+Este grafico muestra la totalidad de ventas por tienda 
+![Grafico ventas por tienda](direccion)
+
+#### Cantidad de ventas por categoria 
+Este grafico muestra la cantidad de ventas por categoria 
+![Cantidad de ventas por categoria](direccion)
+
+#### Calificacion promedio por tienda 
+Este grafico muestra la calificacion promedio por tienda 
+![Calificacion promedio por tienda](direccion)
+
+
 
         
                        
