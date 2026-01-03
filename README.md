@@ -92,6 +92,9 @@ Este grafico muestra la calificacion promedio por tienda
 ![Calificacion promedio por tienda](Calificación_promedio_por_tienda.png)
 Mayor calificacion promedio en Tienda 3 y tienda 2
 
+#### Mapa de calor de compras
+[Ver Mapa de Calor Interactivo](mapa_de_calor_desde_tabla.html)
+
 ### Conclusión 
 La tienda que se propone vender es la tienda 4 debido a dos razones principales 
 1. Peores ingresos totales en el año
