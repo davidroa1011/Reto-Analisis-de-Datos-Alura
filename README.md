@@ -93,6 +93,10 @@ Este grafico muestra la calificacion promedio por tienda
 Mayor calificacion promedio en Tienda 3 y tienda 2
 
 ### Mapa de calor de compras
+Se evidencia mayor compra de productos en 3 puntos pirncipales en Colombia 
+1. Bogota
+2. Ibagué
+3. Cartagena
 [Ver Mapa de Calor Interactivo](mapa_de_calor_desde_tabla.html)
 
 ### Conclusión 
